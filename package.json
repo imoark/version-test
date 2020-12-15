@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/imoark/version-test/issues"
   },
-  "homepage": "https://github.com/imoark/version-test#readme"
+  "homepage": "https://github.com/imoark/version-test#readme",
+  "dependencies": {
+    "@aquanow/aqua-config": "1.3.0-dev.1"
+  }
 }
